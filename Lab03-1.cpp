@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stddef.h>     // for NULL definition
-
+//Name: Mark Schweitzer
 int main()
 {
   using namespace std;
